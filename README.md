@@ -4,6 +4,7 @@
 hush is the owner
 Best pen-testing tool for roblox games!
 Official Hydroxide discord server invite link: https://nrv-ous.xyz/hydroxide/discord
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 local owner = "Arrosz"
 local branch = "revision"
